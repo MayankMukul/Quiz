@@ -1,23 +1,23 @@
 const question = [{
-        'ques' : 'Full form of HTML',
-        'a' : 'HYPERTEXT MARKUP LANGUAGE',
-        'b': 'CASCADING STYLING SHEET',
-        'c' : 'answer3',
-        'd' : 'answer 4',
+        'ques' : 'HTML stands for __________',
+        'a' : 'HyperText Markup Language',
+        'b': 'HyperText Machine Language',
+        'c' : 'HyperText Marking Language',
+        'd' : 'HighText Marking Language',
         'correct' : 'a'  
     },{
-        "ques" :"The World Largest desert is ? ",
-        'a' : 'Thar',
-        'b': 'Kalahari',
-        'c' : 'Sahara',
-        'd' : 'Sonoran',
-        'correct' : 'c'
+        "ques" :"Which element is used for or styling HTML5 layout?",
+        'a' : 'CSS',
+        'b': ' jQuery',
+        'c' : 'JavaScript',
+        'd' : 'PHP',
+        'correct' : 'a'
     },{
-        "ques": "What is the capital of India?",
-        'a' : 'Delhi',
-        'b': 'answer 2',
-        'c' : 'answer3',
-        'd' : 'answer 4',
+        "ques": "Javascript is an _______ language?",
+        'a' : 'Object-Oriented',
+        'b': 'Object-Based',
+        'c' : 'Procedural',
+        'd' : 'None of the above',
         'correct' : 'a'
     }
 ]
