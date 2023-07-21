@@ -84,8 +84,8 @@ function endquiz() {
     document.getElementById("box").innerHTML = `
     <div class="title">
         <h2>Thank you for playing the quiz</h2>
-        <h3>You got ${correct}/${total} correct</h3>
-        <button onclick="location.reload()">re-play</button>
+        <h3>You Scored : ${correct}/${total} </h3>
+        <button onclick="location.reload()">Play Again !!!</button>
     </div>`
     return ;
 }

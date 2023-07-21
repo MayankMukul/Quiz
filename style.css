@@ -31,13 +31,9 @@ body {
 .title {
     text-align: center;
     padding: 12px;
-    /*border: solid 2px black;*/
-    
 }
 
 .question {
-    
-    /*border: 1px solid; */
     font-size: large;
     font-weight: bold;
 }
@@ -45,7 +41,6 @@ body {
 .row {
     padding : 1rem ;
     width: 95%;
-    /*border: solid 1px;*/
 }
 
 .answer {
@@ -55,21 +50,19 @@ body {
 
 label {
     padding-left: 10px;
-    
 }
 
 button {
     width: 15rem;
     height: 2rem;
     border-radius: 1rem;
-    background-color: var(--primaryColor);
-    
+    background-color: var(--primaryColor);   
 }
 
 .submit {
     text-align: center;
 }
 
-.title h2 h3 {
+.title h2,h3,button {
     margin: 10px;
 }
